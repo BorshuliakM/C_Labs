@@ -49,4 +49,5 @@ int main()
     }
     return 0;
 }
-//gcc Task_10.c Lab1.c Lab2.c Lab3.c Lab4.c Lab5.c Lab6.c Lab7.c Lab8.c -o Task_10, gcc * .c -o Task_10
+//gcc -o main main.c Lab1.c Lab2.c Lab3.c Lab4.c Lab5.c Lab6.c Lab7.c Lab8.c 
+//./main
